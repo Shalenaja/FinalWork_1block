@@ -8,3 +8,16 @@
 Console.WriteLine("Введите несколько элементов массива, состоищих из разного количества символов через пробел");
 string elements = Console.ReadLine();
 string[] words = elements.Split(' ');
+
+string StringLessThree(string[] arr)
+{
+    int size = arr.Length;
+    string str = string.Empty;
+        for(int i = 0; i < size; i++)
+        {   
+            if(arr[i].Length <= 3)
+            str += arr[i];
+            str = str + " ";
+        }
+        return str;
+}
