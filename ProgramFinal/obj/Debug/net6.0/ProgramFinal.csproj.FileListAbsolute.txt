@@ -1,0 +1,15 @@
+D:\ОБУЧЕНИЕ\Итоговая проверочная работа 1 блок\FinalWork_1block\ProgramFinal\bin\Debug\net6.0\ProgramFinal.exe
+D:\ОБУЧЕНИЕ\Итоговая проверочная работа 1 блок\FinalWork_1block\ProgramFinal\bin\Debug\net6.0\ProgramFinal.deps.json
+D:\ОБУЧЕНИЕ\Итоговая проверочная работа 1 блок\FinalWork_1block\ProgramFinal\bin\Debug\net6.0\ProgramFinal.runtimeconfig.json
+D:\ОБУЧЕНИЕ\Итоговая проверочная работа 1 блок\FinalWork_1block\ProgramFinal\bin\Debug\net6.0\ProgramFinal.dll
+D:\ОБУЧЕНИЕ\Итоговая проверочная работа 1 блок\FinalWork_1block\ProgramFinal\bin\Debug\net6.0\ProgramFinal.pdb
+D:\ОБУЧЕНИЕ\Итоговая проверочная работа 1 блок\FinalWork_1block\ProgramFinal\obj\Debug\net6.0\ProgramFinal.csproj.AssemblyReference.cache
+D:\ОБУЧЕНИЕ\Итоговая проверочная работа 1 блок\FinalWork_1block\ProgramFinal\obj\Debug\net6.0\ProgramFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОБУЧЕНИЕ\Итоговая проверочная работа 1 блок\FinalWork_1block\ProgramFinal\obj\Debug\net6.0\ProgramFinal.AssemblyInfoInputs.cache
+D:\ОБУЧЕНИЕ\Итоговая проверочная работа 1 блок\FinalWork_1block\ProgramFinal\obj\Debug\net6.0\ProgramFinal.AssemblyInfo.cs
+D:\ОБУЧЕНИЕ\Итоговая проверочная работа 1 блок\FinalWork_1block\ProgramFinal\obj\Debug\net6.0\ProgramFinal.csproj.CoreCompileInputs.cache
+D:\ОБУЧЕНИЕ\Итоговая проверочная работа 1 блок\FinalWork_1block\ProgramFinal\obj\Debug\net6.0\ProgramFinal.dll
+D:\ОБУЧЕНИЕ\Итоговая проверочная работа 1 блок\FinalWork_1block\ProgramFinal\obj\Debug\net6.0\refint\ProgramFinal.dll
+D:\ОБУЧЕНИЕ\Итоговая проверочная работа 1 блок\FinalWork_1block\ProgramFinal\obj\Debug\net6.0\ProgramFinal.pdb
+D:\ОБУЧЕНИЕ\Итоговая проверочная работа 1 блок\FinalWork_1block\ProgramFinal\obj\Debug\net6.0\ProgramFinal.genruntimeconfig.cache
+D:\ОБУЧЕНИЕ\Итоговая проверочная работа 1 блок\FinalWork_1block\ProgramFinal\obj\Debug\net6.0\ref\ProgramFinal.dll
